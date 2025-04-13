@@ -1,5 +1,5 @@
 
-# 🏋️‍♂️ Personal Fitness Tool
+# Personal Fitness Tool
 
 **Personal Fitness Tool** is an intelligent fitness companion that helps users manage and track their fitness journey with AI-powered assistance. From personalized macro recommendations to notes and question answering, this tool leverages Langflow and AstraDB to build a full-stack, customizable experience.
 
@@ -60,7 +60,7 @@ personal-fitness-tool/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/personal-fitness-tool.git
+git clone https://github.com/thisz-akj/personal-fitness-tool.git
 cd personal-fitness-tool
 ```
 
@@ -105,7 +105,7 @@ Langflow JSONs (`AskAIV2.json`, `MacroFlow.json`) are used with `run_flow_from_j
 
 ---
 
-## 🧩 Key Functions
+##  Key Functions
 
 ### Profile Management
 ```python
