@@ -11,6 +11,7 @@
 -  Dynamically update personal details and fitness goals
 -  Add and delete personal fitness notes
 -  Get AI-generated responses to health or fitness queries
+-  AI Agent to give calculated health plans with proper numerically acurate diet plans
 -  Personalized macro calculation based on profile data
 -  Modular prompt and flow system powered by Langflow
 -  AstraDB-backed persistent storage
@@ -28,6 +29,22 @@
 | **.env**         | Securing API keys                        |
 
 ---
+
+
+##  Project Output
+
+
+
+![Screenshot 2025-04-14 023946](https://github.com/user-attachments/assets/5747f860-0cf0-4a39-8f6f-39b5c4cd67b3)
+
+![Screenshot 2025-04-14 024016](https://github.com/user-attachments/assets/e94eabfd-93d3-4cc8-92e7-a51f866e9887)
+
+![Screenshot 2025-04-14 024134](https://github.com/user-attachments/assets/1b8c8ae9-505e-4436-b6aa-56d6d60498c9)
+
+
+---
+
+
 
 ##  Project Structure
 
